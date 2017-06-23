@@ -86,7 +86,7 @@ according to Code.org.</p>
 
   <p>We are aiming to inspire the younger generation to get started in  understanding the language of technology and its cross-functionality in buisness. READY.SET(){CODE} is not just about programming but fostering the fundamentals of logic and becoming better equipped to function in the digitally advanced world we live in. In the process of learing to code, kids are learning mathematical and computational ideas like variables and conditionals. They are truly learning strategies for solving problems, desining projects, communication, and teamwork-all skills businesses look for when hiring. These basic to advanced skills being taught and interactions with the professional community will ultimatly lead to a strong, confident new generation entering the increasingly growing digital workplace.</p>
 
-  <a href="#" class="btn">k</a> <a href="#" class="btn">k</a>
+  <a href="http://biotic-desolater.github.io/flg-code-camp/" class="btn">Will</a> <a href="#" class="btn">k</a>
 
   <a href="#" class="btn">k</a> <a href="#" class="btn">k</a>
 
