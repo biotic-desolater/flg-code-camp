@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 
 <html>
 
@@ -102,4 +102,4 @@ according to Code.org.</p>
 
     <h4>The Chamber is impacting future curriculum choises which include coding in our local schools. So far, our efforts have ignited parental, business and education partners resulting in the offering of coding classes to their fall curriculum. In the end, our vision is to raise the national profile of Flagstaff as a digital and innovation hub.</h4> 
 
-</html> 
+
